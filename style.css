@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    background-color: aqua;
+    color: brown;
+}
+p{
+    border: 2px salmon;
+}
